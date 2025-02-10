@@ -32,9 +32,11 @@ Create a Directory and Navigate to It:
 
 mkdir whatsapp-bot && cd whatsapp-bot
 
-Create and Activate a Python Virtual Environment:
+Create and Activate a Python Virtual Environment:(windows)
 
-python3 -m venv bot-env && source bot-env/bin/activate
+python -m venv venv
+venv\Scripts\activate
+
 
 Install Twilio, Flask, and Requests:
  
