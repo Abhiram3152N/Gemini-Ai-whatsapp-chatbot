@@ -35,6 +35,7 @@ mkdir whatsapp-bot && cd whatsapp-bot
 Create and Activate a Python Virtual Environment:(windows)
 
 python -m venv venv
+
 venv\Scripts\activate
 
 
