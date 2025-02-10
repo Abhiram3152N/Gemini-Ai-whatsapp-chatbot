@@ -1,1 +1,3 @@
 pip install google-generativeai flask twilio python-dotenv
+pip install twilio flask requests
+pip install python
