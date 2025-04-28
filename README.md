@@ -1,13 +1,13 @@
 # Gemini-Ai-whatsapp-chatbot
 
-Introduction :
+#Introduction
 
 In this Project, we will learn how to Build A WhatsApp Bot Using Python Bot using Python. A WhatsApp bot is a software application capable of communicating with users in both written and spoken formats. Our bot will use the Twilio API to connect with WhatsApp and perform tasks like sending and receiving messages, notifications, and more.
 
 We’ll use the Python library Flask to handle incoming and outgoing messages and Ngrok to expose our Flask application to the public internet so that Twilio can communicate with it.
 
 
-Required Modules and Packages:
+#Required Modules and Packages
 To build this WhatsApp bot, you will need the following:
 
 1.A Twilio Account: Sign up at Twilio and get a phone number with WhatsApp enabled.
@@ -15,7 +15,7 @@ To build this WhatsApp bot, you will need the following:
 3.Flask: A lightweight web framework for Python that will be used to handle incoming HTTP requests from Twilio.
 4.Ngrok: A tool that will help expose your Flask application running on your local machine to the internet.(install and create an account in ngrok)
 
-How To Run The Code :
+#How To Run The Code 
 Follow these steps to set up and run the WhatsApp bot:
 
 Step 1: Set up a Twilio account by visiting Twilio WhatsApp. Sign up and verify your email ID and phone number.
